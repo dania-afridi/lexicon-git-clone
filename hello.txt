@@ -1,2 +1,3 @@
 Hello, Git!
-Test line is added
+Test line is removed.
+Test is complete.
